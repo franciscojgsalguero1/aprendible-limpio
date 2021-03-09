@@ -1,0 +1,21 @@
+{
+    "name": "Nombre",
+    "Home": "Inicio",
+    "About": "Sobre",
+    "Project": "Projecto",
+    "Contact": "Contacto",
+    "Come back": "Volver a inicio",
+    "Send": "Enviar",
+    "There any projecs for show": "No hay projectos para mostrar",
+    "Create New Project": "Crear nuevo projecto",
+    "Title": "Título",
+    "Project description": "Descripción del projecto",
+    "The project needs a title": "El proyecto necesita un título",
+    "Edit Project": "Editar projecto",
+    "Save": "Guardar",
+    "Edit": "Editar",
+    "Update": "Actualizar",
+    "Eliminate": "Eliminar",
+    "Login": "Acceso",
+    "Logout": "Cerrar sesion"
+}
