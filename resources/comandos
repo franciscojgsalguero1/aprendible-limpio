@@ -89,3 +89,9 @@ php artisan make:controller NombreController -h
         .sass('resources/sass/app.scss', 'public/css')
         .vue()
         .sourceMaps();
+16- Una vez montado todo para compilar sass
+    npm run dev
+    o
+    npm run watch (para que sea continuo)
+    (puede que tengas que hacer un hard reset
+    para que no carge desde el cache)
